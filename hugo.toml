@@ -1,4 +1,46 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Praneeth G'
 theme = 'nightfall'
+
+[params]
+    user = "praneeth"
+    hostname = "gohugo.io"
+    sitedescription = 'Find all my about me and my career here'
+    published = false
+    readingTime = false
+    footerHtml = 'Majoring in Masters in Computer Science at <a href="https://vt.edu/" class="footerLink">Virginia Tech</a>'
+
+    [params.author]
+        name = "Praneeth G"
+        email = "inboxpraneeth@gmail.com"
+
+    [[params.social]]
+        key = 0
+        name = "github"
+        url = "https://github.com/PraneethGunas"
+        icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+        target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
+        aria = "Praneeth GitHub" # Define the aria label for accessibility like page reader - this is better for your SEO
+
+    [[params.social]]
+        key = 1
+        name = "twitter"
+        url = "https://x.com/PraneethGunas"
+
+    [[params.social]]
+        key = 2
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/praneeth-g/"
+        rel = "me"  # You can also add rel to social link
+
+    [[params.social]]
+        key = 3
+        name = "email"
+        url = "mailto:inboxpraneeth@gmail.com"
+
+    [menu]
+        [[menu.header]]
+            name = "about"
+            weight = 0
+            url = "/about"

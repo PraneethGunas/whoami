@@ -1,0 +1,49 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'nightfall'
+
+[params]
+user = "Hi 👨🏻‍💻, I'm Praneeth"
+hostname = "gohugo.io"
+sitedescription = 'Your website description'
+published = false
+readingTime = false
+footerHtml = 'CC-0, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme'
+
+    [params.author]
+    name = "Praneeth G"
+    email = "inboxpraneeth@gmail.com"
+
+    [[params.social]]
+    key = 0
+    name = "github"
+    url = "https://github.com/gohugoio"
+    icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
+    target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
+    aria = "GitHub Profile" # Define the aria label for accessibility like page reader - this is better for your SEO
+
+    [[params.social]]
+    key = 1
+    name = "twitter"
+    url = "https://www.example.com"
+
+    [[params.social]]
+    key = 2
+    name = "mastodon"
+    url = "https://www.example.com"
+    rel = "me"  # You can also add rel to social link
+
+    [[params.social]]
+    key = 3
+    name = "email"
+    url = "mailto:email@example.com"
+    
+    [[params.styles]]
+    color = "orange"
+
+[menu]
+    [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"

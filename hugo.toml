@@ -12,35 +12,48 @@ theme = 'nightfall'
     footerHtml = 'Majoring in Masters in Computer Science at <a href="https://vt.edu/" class="footerLink">Virginia Tech</a>'
 
     [params.author]
-        name = "Praneeth G"
+        name = "Hi 👋, I'm Praneeth"
         email = "inboxpraneeth@gmail.com"
 
     [[params.social]]
-        key = 0
+        key = 1
         name = "github"
         url = "https://github.com/PraneethGunas"
-        icon = "fa-brands fa-github"  # Add link to your icon font to `layouts/partials/custom-head.html`
-        target = "_blank" # Defines your target option in a-href. _blank for a new Tab for example.
+        target = "_blank"
         aria = "Praneeth GitHub" # Define the aria label for accessibility like page reader - this is better for your SEO
 
     [[params.social]]
-        key = 1
+        key = 2
         name = "twitter"
+        target = "_blank"
         url = "https://x.com/PraneethGunas"
 
     [[params.social]]
-        key = 2
+        key = 3
         name = "linkedin"
         url = "https://www.linkedin.com/in/praneeth-g/"
+        target = "_blank"
         rel = "me"  # You can also add rel to social link
 
     [[params.social]]
-        key = 3
+        key = 4
         name = "email"
+        target = "_blank"
         url = "mailto:inboxpraneeth@gmail.com"
+    
 
     [menu]
         [[menu.header]]
             name = "about"
-            weight = 0
-            url = "/about"
+            weight = 1
+            url = "/about/"
+        
+        [[menu.header]]
+            name = "curriculum"
+            weight = 1
+            url = "/curriculum/"
+
+        [[menu.header]]
+            name = "resume"
+            weight = 1
+            url = "/resume/"

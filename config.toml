@@ -4,8 +4,8 @@ title = 'Praneeth G'
 theme = 'nightfall'
 
 [params]
-    user = "praneeth"
-    hostname = "gohugo.io"
+    user = "whoami"
+    hostname = "praneeth"
     sitedescription = 'Find all my about me and my career here'
     published = false
     readingTime = false

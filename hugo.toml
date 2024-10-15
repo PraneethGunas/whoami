@@ -40,6 +40,12 @@ theme = 'nightfall'
         name = "email"
         target = "_blank"
         url = "mailto:inboxpraneeth@gmail.com"
+
+    [[params.social]]
+        key = 5
+        name = "resume"
+        url = "https://docs.google.com/document/d/1zTrQzRxBieHahgyPNkKCuI8i7kqn5CJeLcf2uesJ_cE/preview?format=pdf"
+        target = "_blank"
     
 
     [menu]
@@ -54,6 +60,6 @@ theme = 'nightfall'
             url = "/curriculum/"
 
         [[menu.header]]
-            name = "resume"
+            name = "projects"
             weight = 1
-            url = "/resume/"
+            url = "/projects/"

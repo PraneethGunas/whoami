@@ -1,0 +1,3 @@
+baseURL = "https://praneethguanas.github.io/whoami/"
+publishDir = "public"
+languageCode = "en-us"

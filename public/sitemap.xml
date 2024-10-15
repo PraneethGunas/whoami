@@ -33,6 +33,8 @@
   </url><url>
     <loc>https://example.org/curriculum/</loc>
   </url><url>
+    <loc>https://example.org/projects/</loc>
+  </url><url>
     <loc>https://example.org/resume/</loc>
   </url>
 </urlset>

@@ -1,5 +1,9 @@
 # About Me
 
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
 Hi, I'm Praneeth! I'm currently pursuing my Master's in Computer Science at [Virginia Tech](https://vt.edu/). My concentration focuses on network security and software engineering research. I've also taken up open-source intelligence on the side.
 
 I've worked at Bithyve building a secure Bitcoin mobile wallet that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely. 

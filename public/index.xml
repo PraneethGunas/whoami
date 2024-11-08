@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praneeth G</title>
-    <link>http://localhost:1313/whoami/</link>
+    <link>https://praneethgunas.github.io/whoami/</link>
     <description>Recent content on Praneeth G</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</managingEditor>
     <webMaster>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</webMaster>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/whoami/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://praneethgunas.github.io/whoami/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/whoami/reference/</link>
+      <link>https://praneethgunas.github.io/whoami/reference/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/reference/</guid>
+      <guid>https://praneethgunas.github.io/whoami/reference/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/whoami/about/</link>
+      <link>https://praneethgunas.github.io/whoami/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/about/</guid>
+      <guid>https://praneethgunas.github.io/whoami/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Praneeth! I&amp;rsquo;m currently pursuing my Master&amp;rsquo;s in Computer Science at &lt;a href=&#34;https://vt.edu/&#34;&gt;Virginia Tech&lt;/a&gt;. My concentration focuses on network security and software engineering research. I&amp;rsquo;ve also taken up open-source intelligence on the side.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve worked at Bithyve building a secure Bitcoin mobile wallet that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely.&lt;/p&gt;&#xA;&lt;p&gt;I was a speaker @&lt;a href=&#34;https://bitcoin4india.org/&#34;&gt;Bitcoin4India&lt;/a&gt;. Spoke about &amp;ldquo;Securing Bitcoin with Multisig&amp;rdquo;.&#xA;Hosted multiple Bitcoin meetups in and around Bangalore to elicit about Bitcoin.&#xA;Open-sourced libraries that can efficiently establish a bridge between hardware wallets and mobile applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/whoami/curriculum/</link>
+      <link>https://praneethgunas.github.io/whoami/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/curriculum/</guid>
-      <description>&lt;h1 id=&#34;whats-in-my-masters&#34;&gt;What&amp;rsquo;s in my Masters?&lt;/h1&gt;&#xA;&lt;p&gt; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;h2 id=&#34;network-security&#34;&gt;Network Security&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the 0-RTT handshake&#xA; &lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;software-engineering-research&#34;&gt;Software Engineering Research&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We work on developing and improving general software engineering practices, addressing issues like flaky tests, replacing text differencing with Gumtree to better understand developer intent, etc.&#xA;I&amp;rsquo;m currently building a smart home automation simulator for &lt;a href=&#34;https://www.home-assistant.io/&#34;&gt;Home Assistant&lt;/a&gt;&#xA; &lt;/p&gt;</description>
+      <guid>https://praneethgunas.github.io/whoami/curriculum/</guid>
+      <description>&lt;h1 id=&#34;whats-in-my-masters&#34;&gt;What&amp;rsquo;s in my Masters?&lt;/h1&gt;&#xA;&lt;p&gt; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;h2 id=&#34;network-security&#34;&gt;Network Security&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), Adoption of Route Origin Validation across autonomous systems etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the data trasfer in 0-RTT handshake at the time of session resumption&#xA; &lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/whoami/projects/</link>
+      <link>https://praneethgunas.github.io/whoami/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/projects/</guid>
+      <guid>https://praneethgunas.github.io/whoami/projects/</guid>
       <description>&lt;h1 id=&#34;community-and-publications&#34;&gt;Community and Publications&lt;/h1&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h3 id=&#34;coinkite-tap-protocol-library-open-sourced---2022&#34;&gt;Coinkite Tap Protocol library (Open-sourced - 2022)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Open sourced &lt;a href=&#34;https://github.com/bithyve/cktap-protocol-react-native&#34;&gt;cktap&lt;/a&gt;, A React Native library/sdk to enable easy communication with &lt;a href=&#34;https://tapsigner.com/&#34;&gt;TAPSIGNER™&lt;/a&gt; and &lt;a href=&#34;https://satscard.com/&#34;&gt;SATSCARD™&lt;/a&gt; with React-Native, Python and Javascript&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;speaker-bitcoin4india&#34;&gt;Speaker @Bitcoin4India&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spoke about &lt;em&gt;Securing Bitcoin with multisig&lt;/em&gt; with &lt;a href=&#34;https://bitcoin4india.org/&#34;&gt;Bitcoin4India&lt;/a&gt; addressing a self-motivated crowd of about ~500.&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;hosting-meetups-on-bitcoin&#34;&gt;Hosting Meetups on Bitcoin&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hosting monthly meetups with &lt;a href=&#34;https://www.meetup.com/bitcoinforindia/&#34;&gt;Bitcoin4India&lt;/a&gt; with coffee and Bitcoin security&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;h3 id=&#34;pictionary&#34;&gt;Pictionary&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A live socket-based interactive pictionary game for Andoird and iOS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: React-Native, Typescript, Socket.io, Realm (MongoDB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/Pictionary-App&#34;&gt;Pictionary App&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bitify-decentralised-spotify&#34;&gt;Bitify (Decentralised Spotify)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A game where different TLS versions compete in a battle royale scenario to compare performance and security.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Solidity, Javascript, React, Firebase, Truffle suite (Ganache, web3)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/Bitify/tree/master&#34;&gt;Bitify&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;scraphn&#34;&gt;ScrapHN&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Built a web-scrapper that pulls in top scored Ycombinator news right into your WhatsApp inbox everyday.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, BeautifulSoup, Redis, Twilio&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2019&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/ScrapHN&#34;&gt;ScrapHN&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/whoami/resume/</link>
+      <link>https://praneethgunas.github.io/whoami/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/resume/</guid>
+      <guid>https://praneethgunas.github.io/whoami/resume/</guid>
       <description>&lt;h3 id=&#34;readcvhttpsreadcvpraneethg&#34;&gt;&lt;a href=&#34;https://read.cv/praneethg&#34;&gt;read.cv&lt;/a&gt;&lt;/h3&gt;</description>
     </item>
   </channel>

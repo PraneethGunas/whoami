@@ -5,7 +5,7 @@
 &nbsp;  
 
 ## Network Security
-> We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the 0-RTT handshake
+> We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), Adoption of Route Origin Validation across autonomous systems etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the data trasfer in 0-RTT handshake at the time of session resumption
 &nbsp;
 
 ## Software Engineering Research

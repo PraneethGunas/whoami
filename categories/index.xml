@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Praneeth G</title>
-    <link>http://localhost:1313/whoami/categories/</link>
+    <link>https://praneethgunas.github.io/whoami/categories/</link>
     <description>Recent content in Categories on Praneeth G</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</managingEditor>
     <webMaster>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</webMaster>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/whoami/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://praneethgunas.github.io/whoami/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/whoami/categories/syntax/</link>
+      <link>https://praneethgunas.github.io/whoami/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/categories/syntax/</guid>
+      <guid>https://praneethgunas.github.io/whoami/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/whoami/categories/themes/</link>
+      <link>https://praneethgunas.github.io/whoami/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>http://localhost:1313/whoami/categories/themes/</guid>
+      <guid>https://praneethgunas.github.io/whoami/categories/themes/</guid>
       <description></description>
     </item>
   </channel>

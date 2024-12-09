@@ -16,8 +16,8 @@
 
 # Projects
 
-### TLS 1.3 0-RTT reply attach vulnerability check
-- **Description**: A network vulnerability experiment that exploits reply attack on TLS 1.3's 0-RTT early daya
+### TLS 1.3 0-RTT reply-attack vulnerability check
+- **Description**: A network vulnerability experiment that exploits reply attack on TLS 1.3's 0-RTT early data
 - **Tech Stack**: Rust, Openssl, Wireshark, Scapy, Python
 - **Year**: 2024
 - **Link**: [TLS 0-RTT reply](https://github.com/PraneethGunas/tls-1.3-0-rtt-reply-experiment)

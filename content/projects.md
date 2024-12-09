@@ -16,6 +16,15 @@
 
 # Projects
 
+### TLS 1.3 0-RTT reply attach vulnerability check
+- **Description**: A network vulnerability experiment that exploits reply attack on TLS 1.3's 0-RTT early daya
+- **Tech Stack**: Rust, Openssl, Wireshark, Scapy, Python
+- **Year**: 2024
+- **Link**: [TLS 0-RTT reply](https://github.com/PraneethGunas/tls-1.3-0-rtt-reply-experiment)
+&nbsp;
+
+---
+
 ### Pictionary
 - **Description**: A live socket-based interactive pictionary game for Andoird and iOS
 - **Tech Stack**: React-Native, Typescript, Socket.io, Realm (MongoDB)

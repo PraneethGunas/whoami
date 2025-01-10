@@ -9,7 +9,7 @@ theme = 'nightfall'
     sitedescription = 'Find all my about me and my career here'
     published = false
     readingTime = false
-    footerHtml = 'Majoring in Masters in Computer Science at <a href="https://vt.edu/" class="footerLink">Virginia Tech</a>'
+    footerHtml = 'Research Assistant at <a href="https://cyberinitiative.org/" class="footerLink">Commonwealth Cyber Initiative</a> in <a href="https://vt.edu/" class="footerLink">Virginia Tech</a>'
 
     [params.author]
         name = "Hi 👋, I'm Praneeth"

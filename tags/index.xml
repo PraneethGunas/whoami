@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Praneeth G</title>
-    <link>https://praneethgunas.github.io/whoami/tags/</link>
+    <link>http://localhost:1313/whoami/tags/</link>
     <description>Recent content in Tags on Praneeth G</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</managingEditor>
     <webMaster>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</webMaster>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://praneethgunas.github.io/whoami/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/whoami/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://praneethgunas.github.io/whoami/tags/css/</link>
+      <link>http://localhost:1313/whoami/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/tags/css/</guid>
+      <guid>http://localhost:1313/whoami/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://praneethgunas.github.io/whoami/tags/html/</link>
+      <link>http://localhost:1313/whoami/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/tags/html/</guid>
+      <guid>http://localhost:1313/whoami/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://praneethgunas.github.io/whoami/tags/markdown/</link>
+      <link>http://localhost:1313/whoami/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/tags/markdown/</guid>
+      <guid>http://localhost:1313/whoami/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

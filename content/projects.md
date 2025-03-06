@@ -16,6 +16,15 @@
 
 # Projects
 
+### Command & Control over DNS Tunneling
+- **Description**: This project demonstrates a DNS Tunneling-based HTTP Proxy, allowing a client behind a firewall to send HTTP requests over DNS queries. This is useful in environments where internet access is blocked but DNS queries are allowed.
+- **Tech Stack**: Python (dnscat2, iodine), Rust, Wireshark
+- **Year**: 2025
+- **Link**: [DNS Tunneling Attack](https://github.com/PraneethGunas/DNS-Tunnel-HTTP-Proxy)
+&nbsp;
+
+---
+
 ### TLS 1.3 0-RTT reply-attack vulnerability check
 - **Description**: A network vulnerability experiment that exploits reply attack on TLS 1.3's 0-RTT early data
 - **Tech Stack**: Rust, Openssl, Wireshark, Scapy, Python
@@ -41,11 +50,3 @@
 - **Link**: [Bitify](https://github.com/PraneethGunas/Bitify/tree/master)
 &nbsp;
 
----
-
-### ScrapHN
-- **Description**: Built a web-scrapper that pulls in top scored Ycombinator news right into your WhatsApp inbox everyday.
-- **Tech Stack**: Python, BeautifulSoup, Redis, Twilio
-- **Year**: 2019
-- **Link**: [ScrapHN](https://github.com/PraneethGunas/ScrapHN)
-&nbsp;

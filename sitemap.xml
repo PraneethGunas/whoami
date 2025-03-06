@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/whoami/categories/</loc>
+    <loc>https://praneethgunas.github.io/whoami/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/tags/css/</loc>
+    <loc>https://praneethgunas.github.io/whoami/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/tags/html/</loc>
+    <loc>https://praneethgunas.github.io/whoami/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/tags/markdown/</loc>
+    <loc>https://praneethgunas.github.io/whoami/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/reference/</loc>
+    <loc>https://praneethgunas.github.io/whoami/reference/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/</loc>
+    <loc>https://praneethgunas.github.io/whoami/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/categories/syntax/</loc>
+    <loc>https://praneethgunas.github.io/whoami/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/tags/</loc>
+    <loc>https://praneethgunas.github.io/whoami/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/categories/themes/</loc>
+    <loc>https://praneethgunas.github.io/whoami/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/whoami/about/</loc>
+    <loc>https://praneethgunas.github.io/whoami/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/curriculum/</loc>
+    <loc>https://praneethgunas.github.io/whoami/curriculum/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/projects/</loc>
+    <loc>https://praneethgunas.github.io/whoami/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/resume/</loc>
+    <loc>https://praneethgunas.github.io/whoami/resume/</loc>
   </url>
 </urlset>

@@ -4,7 +4,7 @@
 &nbsp;  
 &nbsp;  
 
-Hi, I'm Praneeth! I'm currently pursuing my MS in Computer Science at [Virginia Tech](https://vt.edu/). I've recently started my research thesis under [Dr Shin'ichiro Matsuo](https://people.cs.georgetown.edu/matsuo/) and [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) in Blockchain and Network Security at the [Commonwealth Cyber Initiative](https://cyberinitiative.org/).
+Hi, I'm Praneeth! I'm currently pursuing my MS in Computer Science at [Virginia Tech](https://vt.edu/). I've recently started my research thesis under [Dr Shin'ichiro Matsuo](https://people.cs.georgetown.edu/matsuo/) and [Dr Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) in Blockchain and Network Security at the [Commonwealth Cyber Initiative](https://cyberinitiative.org/).
 
 I've worked at Bithyve building a secure Bitcoin [mobile wallet](https://apps.apple.com/pl/app/bitcoin-keeper/id1545535925) that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely. 
 

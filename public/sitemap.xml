@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/whoami/about/</loc>
+    <loc>https://praneethgunas.github.io/whoami/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/curriculum/</loc>
+    <loc>https://praneethgunas.github.io/whoami/curriculum/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/projects/</loc>
+    <loc>https://praneethgunas.github.io/whoami/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/resume/</loc>
+    <loc>https://praneethgunas.github.io/whoami/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/categories/</loc>
+    <loc>https://praneethgunas.github.io/whoami/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/</loc>
+    <loc>https://praneethgunas.github.io/whoami/</loc>
   </url><url>
-    <loc>http://localhost:1313/whoami/tags/</loc>
+    <loc>https://praneethgunas.github.io/whoami/tags/</loc>
   </url>
 </urlset>

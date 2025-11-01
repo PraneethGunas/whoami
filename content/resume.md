@@ -1,1 +1,1 @@
-### [read.cv](https://read.cv/praneethg)
+### [read.cv](https://praneeth-resume.tiiny.site)

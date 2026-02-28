@@ -43,6 +43,13 @@ theme = 'nightfall'
 
     [[params.social]]
         key = 5
+        name = "research"
+        url = "https://research.praneethg.xyz"
+        target = "_blank"
+        aria = "Bitcoin Vault Research"
+
+    [[params.social]]
+        key = 6
         name = "resume"
         url = "https://praneeth-resume.tiiny.site"
         target = "_blank"

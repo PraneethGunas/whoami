@@ -1,5 +1,5 @@
 # Community and Publications
-&nbsp;  
+&nbsp;
 
 ### Coinkite Tap Protocol library (Open-sourced - 2022)
 - Open sourced [cktap](https://github.com/bithyve/cktap-protocol-react-native), A React Native library/sdk to enable easy communication with [TAPSIGNER™](https://tapsigner.com/) and [SATSCARD™](https://satscard.com/) with React-Native, Python and Javascript
@@ -25,11 +25,47 @@
 
 ---
 
+### CAT-CSFS Bitcoin Vault
+- **Description**: A Bitcoin vault built on OP_CAT (BIP 347) and OP_CHECKSIGFROMSTACK (BIP 348) to enforce covenant spending rules on regtest. Implements on-chain transaction introspection using Schnorr signature tricks.
+- **Tech Stack**: Python, Schnorr Signatures, Taproot
+- **Year**: 2026
+- **Link**: [CAT-CSFS Vault](https://github.com/PraneethGunas/cat-csfs-vault)
+&nbsp;
+
+---
+
+### Liquid Network Mnemonic Recovery Tool
+- **Description**: BIP39 mnemonic recovery tool for the Liquid Network. Brute-forces the last 2 missing words using a local Elements node at ~2,600 addr/s with no API rate limits.
+- **Tech Stack**: Python, Elements (Liquid Network)
+- **Year**: 2026
+- **Link**: [Liquid Recovery](https://github.com/PraneethGunas/liquid-recovery)
+&nbsp;
+
+---
+
+### Bitcoin Multisig Key Recovery Tool
+- **Description**: A Rust-based CLI tool for key recovery in m-of-n Bitcoin multisig schemes. Addresses the vulnerability where loss of a single public key prevents recovery even with all private keys. Enables recovery with only 'm' keys using OP_RETURN.
+- **Tech Stack**: Rust, Bitcoin Core
+- **Year**: 2025
+- **Link**: [Multisig Recovery](https://github.com/PraneethGunas/bitcoin-multisig-wallet)
+&nbsp;
+
+---
+
 ### Command & Control over DNS Tunneling
 - **Description**: This project demonstrates a DNS Tunneling-based HTTP Proxy, allowing a client behind a firewall to send HTTP requests over DNS queries. This is useful in environments where internet access is blocked but DNS queries are allowed.
 - **Tech Stack**: Python (dnscat2, iodine), Rust, Wireshark
 - **Year**: 2025
 - **Link**: [DNS Tunneling Attack](https://github.com/PraneethGunas/DNS-Tunnel-HTTP-Proxy)
+&nbsp;
+
+---
+
+### Bitcoin Docker Dev Environments
+- **Description**: Docker Compose setups for spinning up Blockstream's Elements (Liquid Network) and Bitcoin Inquisition (Bitcoin Core fork with OP_CAT, OP_CTV, etc. activated on signet) for research and development.
+- **Tech Stack**: Shell, Docker Compose, Dockerfile, Bitcoin Core
+- **Year**: 2025
+- **Link**: [Elements Docker](https://github.com/PraneethGunas/elements-regtest-docker) | [Inquisition Docker](https://github.com/PraneethGunas/bitcoin-inquisition-docker)
 &nbsp;
 
 ---
@@ -44,7 +80,7 @@
 ---
 
 ### Pictionary
-- **Description**: A live socket-based interactive pictionary game for Andoird and iOS
+- **Description**: A live socket-based interactive pictionary game for Android and iOS
 - **Tech Stack**: React-Native, Typescript, Socket.io, Realm (MongoDB)
 - **Year**: 2020
 - **Link**: [Pictionary App](https://github.com/PraneethGunas/Pictionary-App)
@@ -58,4 +94,3 @@
 - **Year**: 2020
 - **Link**: [Bitify](https://github.com/PraneethGunas/Bitify/tree/master)
 &nbsp;
-

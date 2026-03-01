@@ -106,12 +106,48 @@ Praneeth
  </li>
 </ul>
 <hr>
+<h3 id="cat-csfs-bitcoin-vault">CAT-CSFS Bitcoin Vault</h3>
+<ul>
+<li><strong>Description</strong>: A Bitcoin vault built on OP_CAT (BIP 347) and OP_CHECKSIGFROMSTACK (BIP 348) to enforce covenant spending rules on regtest. Implements on-chain transaction introspection using Schnorr signature tricks.</li>
+<li><strong>Tech Stack</strong>: Python, Schnorr Signatures, Taproot</li>
+<li><strong>Year</strong>: 2026</li>
+<li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/cat-csfs-vault">CAT-CSFS Vault</a>
+ </li>
+</ul>
+<hr>
+<h3 id="liquid-network-mnemonic-recovery-tool">Liquid Network Mnemonic Recovery Tool</h3>
+<ul>
+<li><strong>Description</strong>: BIP39 mnemonic recovery tool for the Liquid Network. Brute-forces the last 2 missing words using a local Elements node at ~2,600 addr/s with no API rate limits.</li>
+<li><strong>Tech Stack</strong>: Python, Elements (Liquid Network)</li>
+<li><strong>Year</strong>: 2026</li>
+<li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/liquid-recovery">Liquid Recovery</a>
+ </li>
+</ul>
+<hr>
+<h3 id="bitcoin-multisig-key-recovery-tool">Bitcoin Multisig Key Recovery Tool</h3>
+<ul>
+<li><strong>Description</strong>: A Rust-based CLI tool for key recovery in m-of-n Bitcoin multisig schemes. Addresses the vulnerability where loss of a single public key prevents recovery even with all private keys. Enables recovery with only &rsquo;m&rsquo; keys using OP_RETURN.</li>
+<li><strong>Tech Stack</strong>: Rust, Bitcoin Core</li>
+<li><strong>Year</strong>: 2025</li>
+<li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/bitcoin-multisig-wallet">Multisig Recovery</a>
+ </li>
+</ul>
+<hr>
 <h3 id="command--control-over-dns-tunneling">Command &amp; Control over DNS Tunneling</h3>
 <ul>
 <li><strong>Description</strong>: This project demonstrates a DNS Tunneling-based HTTP Proxy, allowing a client behind a firewall to send HTTP requests over DNS queries. This is useful in environments where internet access is blocked but DNS queries are allowed.</li>
 <li><strong>Tech Stack</strong>: Python (dnscat2, iodine), Rust, Wireshark</li>
 <li><strong>Year</strong>: 2025</li>
 <li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/DNS-Tunnel-HTTP-Proxy">DNS Tunneling Attack</a>
+ </li>
+</ul>
+<hr>
+<h3 id="bitcoin-docker-dev-environments">Bitcoin Docker Dev Environments</h3>
+<ul>
+<li><strong>Description</strong>: Docker Compose setups for spinning up Blockstream&rsquo;s Elements (Liquid Network) and Bitcoin Inquisition (Bitcoin Core fork with OP_CAT, OP_CTV, etc. activated on signet) for research and development.</li>
+<li><strong>Tech Stack</strong>: Shell, Docker Compose, Dockerfile, Bitcoin Core</li>
+<li><strong>Year</strong>: 2025</li>
+<li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/elements-regtest-docker">Elements Docker</a> | <a href="https://github.com/PraneethGunas/bitcoin-inquisition-docker">Inquisition Docker</a>
  </li>
 </ul>
 <hr>
@@ -126,7 +162,7 @@ Praneeth
 <hr>
 <h3 id="pictionary">Pictionary</h3>
 <ul>
-<li><strong>Description</strong>: A live socket-based interactive pictionary game for Andoird and iOS</li>
+<li><strong>Description</strong>: A live socket-based interactive pictionary game for Android and iOS</li>
 <li><strong>Tech Stack</strong>: React-Native, Typescript, Socket.io, Realm (MongoDB)</li>
 <li><strong>Year</strong>: 2020</li>
 <li><strong>Link</strong>: <a href="https://github.com/PraneethGunas/Pictionary-App">Pictionary App</a>

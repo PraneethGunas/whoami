@@ -16,6 +16,15 @@
 
 # Projects
 
+### PolicyPulse — AI-Powered Policy Impact Analyzer (HooHacks 2026 @ UVA)
+- **Description**: Multi-agent AI system that analyzes how government policies personally impact you, backed by real government data. 7-agent pipeline across 4 stages — classification, research, parallel sector analysis (Labor, Housing, Consumer, Business), and synthesis. Features autonomous Lightning Network micropayments via L402 protocol: when free public data isn't enough, agents pay fractional satoshis to access premium databases, visualized in real-time. Streaming UI with live agent activity feeds, payment animations, and animated Sankey diagrams.
+- **Tech Stack**: Next.js 16, React 19, Tailwind CSS 4, D3.js, FastAPI, Python, LangGraph, Google ADK, LND/Aperture (x402), Docker Compose
+- **Year**: 2026
+- **Link**: [PolicyPulse](https://github.com/PraneethGunas/HooHacks)
+&nbsp;
+
+---
+
 ### Empirical Comparison of Bitcoin Covenant Vault Designs
 - **Description**: Three-way empirical comparison framework for CTV (BIP-119), CCV (BIP-443), and OP_VAULT (BIP-345) vault implementations. 12 experiments measuring transaction costs, security properties, and attack surfaces on regtest with Alloy formal verification.
 - **Tech Stack**: Python, Bitcoin Core (regtest), Alloy

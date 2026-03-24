@@ -16,6 +16,15 @@
 
 # Projects
 
+### x402 — L402-Powered Feed Reader
+- **Description**: Pay-per-article feed reader where real RSS articles are gated behind HTTP 402 Payment Required. Readers connect their own Lightning node from the browser via LNC (Lightning Node Connect), pay a few sats, and read instantly. Features custom credential store fixing an upstream lnc-web reconnect bug, L402 token persistence, two-node payment architecture (provider + user), and a Go backend that fetches live feeds from Bitcoin Optech and Lightning Engineering with zero external dependencies.
+- **Tech Stack**: Next.js, MobX, Emotion, Go, LNC, Aperture (L402), lnd, litd (watch-only + remote signer), Neutrino, Docker
+- **Year**: 2026
+- **Link**: [x402](https://github.com/PraneethGunas/x402)
+&nbsp;
+
+---
+
 ### PolicyPulse — AI-Powered Policy Impact Analyzer (HooHacks 2026 @ UVA)
 - **Description**: Multi-agent AI system that analyzes how government policies personally impact you, backed by real government data. 7-agent pipeline across 4 stages — classification, research, parallel sector analysis (Labor, Housing, Consumer, Business), and synthesis. Features autonomous Lightning Network micropayments via L402 protocol: when free public data isn't enough, agents pay fractional satoshis to access premium databases, visualized in real-time. Streaming UI with live agent activity feeds, payment animations, and animated Sankey diagrams.
 - **Tech Stack**: Next.js 16, React 19, Tailwind CSS 4, D3.js, FastAPI, Python, LangGraph, Google ADK, LND/Aperture (x402), Docker Compose

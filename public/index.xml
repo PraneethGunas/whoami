@@ -1,41 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Praneeth G</title>
-    <link>https://praneethgunas.github.io/whoami/</link>
-    <description>Recent content on Praneeth G</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</managingEditor>
-    <webMaster>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</webMaster>
-    <atom:link href="https://praneethgunas.github.io/whoami/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://praneethgunas.github.io/whoami/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Praneeth! I&amp;rsquo;m currently pursuing my MS in Computer Science at &lt;a href=&#34;https://vt.edu/&#34;&gt;Virginia Tech&lt;/a&gt;. I&amp;rsquo;m working on my research thesis under &lt;a href=&#34;https://people.cs.georgetown.edu/matsuo/&#34;&gt;Dr Shin&amp;rsquo;ichiro Matsuo&lt;/a&gt; and &lt;a href=&#34;https://www.cnsr.ictas.vt.edu/WJLou.html&#34;&gt;Dr Wenjing Lou&lt;/a&gt;, comparing Bitcoin covenant vault designs (CTV, CCV, OP_VAULT) through empirical measurement and formal verification at the &lt;a href=&#34;https://cyberinitiative.org/&#34;&gt;Commonwealth Cyber Initiative&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve worked at Bithyve building a secure Bitcoin &lt;a href=&#34;https://apps.apple.com/pl/app/bitcoin-keeper/id1545535925&#34;&gt;mobile wallet&lt;/a&gt; that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://praneethgunas.github.io/whoami/curriculum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/curriculum/</guid>
-      <description>&lt;h1 id=&#34;whats-in-my-masters&#34;&gt;What&amp;rsquo;s in my Masters?&lt;/h1&gt;&#xA;&lt;p&gt; &lt;br&gt;&#xA; &lt;br&gt;&#xA; &lt;/p&gt;&#xA;&lt;h2 id=&#34;network-security&#34;&gt;Network Security&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), Adoption of Route Origin Validation across autonomous systems etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the data trasfer in 0-RTT handshake at the time of session resumption&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://praneethgunas.github.io/whoami/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/projects/</guid>
-      <description>&lt;h1 id=&#34;community-and-publications&#34;&gt;Community and Publications&lt;/h1&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h3 id=&#34;coinkite-tap-protocol-library-open-sourced---2022&#34;&gt;Coinkite Tap Protocol library (Open-sourced - 2022)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Open sourced &lt;a href=&#34;https://github.com/bithyve/cktap-protocol-react-native&#34;&gt;cktap&lt;/a&gt;, A React Native library/sdk to enable easy communication with &lt;a href=&#34;https://tapsigner.com/&#34;&gt;TAPSIGNER™&lt;/a&gt; and &lt;a href=&#34;https://satscard.com/&#34;&gt;SATSCARD™&lt;/a&gt; with React-Native, Python and Javascript&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;speaker-bitcoin4india&#34;&gt;Speaker @Bitcoin4India&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spoke about &lt;em&gt;Securing Bitcoin with multisig&lt;/em&gt; with &lt;a href=&#34;https://bitcoin4india.org/&#34;&gt;Bitcoin4India&lt;/a&gt; addressing a self-motivated crowd of about ~500.&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;hosting-meetups-on-bitcoin&#34;&gt;Hosting Meetups on Bitcoin&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hosting monthly meetups with &lt;a href=&#34;https://www.meetup.com/bitcoinforindia/&#34;&gt;Bitcoin4India&lt;/a&gt; with coffee and Bitcoin security&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;h3 id=&#34;x402--l402-powered-feed-reader&#34;&gt;x402 — L402-Powered Feed Reader&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Pay-per-article feed reader where real RSS articles are gated behind HTTP 402 Payment Required. Readers connect their own Lightning node from the browser via LNC (Lightning Node Connect), pay a few sats, and read instantly. Features custom credential store fixing an upstream lnc-web reconnect bug, L402 token persistence, two-node payment architecture (provider + user), and a Go backend that fetches live feeds from Bitcoin Optech and Lightning Engineering with zero external dependencies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Next.js, MobX, Emotion, Go, LNC, Aperture (L402), lnd, litd (watch-only + remote signer), Neutrino, Docker&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/x402&#34;&gt;x402&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;policypulse--ai-powered-policy-impact-analyzer-hoohacks-2026--uva&#34;&gt;PolicyPulse — AI-Powered Policy Impact Analyzer (HooHacks 2026 @ UVA)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Multi-agent AI system that analyzes how government policies personally impact you, backed by real government data. 7-agent pipeline across 4 stages — classification, research, parallel sector analysis (Labor, Housing, Consumer, Business), and synthesis. Features autonomous Lightning Network micropayments via L402 protocol: when free public data isn&amp;rsquo;t enough, agents pay fractional satoshis to access premium databases, visualized in real-time. Streaming UI with live agent activity feeds, payment animations, and animated Sankey diagrams.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Next.js 16, React 19, Tailwind CSS 4, D3.js, FastAPI, Python, LangGraph, Google ADK, LND/Aperture (x402), Docker Compose&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/HooHacks&#34;&gt;PolicyPulse&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;empirical-comparison-of-bitcoin-covenant-vault-designs&#34;&gt;Empirical Comparison of Bitcoin Covenant Vault Designs&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Three-way empirical comparison framework for CTV (BIP-119), CCV (BIP-443), and OP_VAULT (BIP-345) vault implementations. 12 experiments measuring transaction costs, security properties, and attack surfaces on regtest with Alloy formal verification.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Bitcoin Core (regtest), Alloy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://research.praneethg.xyz&#34;&gt;Research Site&lt;/a&gt; | &lt;a href=&#34;https://github.com/PraneethGunas/vault-comparison&#34;&gt;Framework&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;cat-csfs-bitcoin-vault&#34;&gt;CAT-CSFS Bitcoin Vault&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A Bitcoin vault built on OP_CAT (BIP 347) and OP_CHECKSIGFROMSTACK (BIP 348) to enforce covenant spending rules on regtest. Implements on-chain transaction introspection using Schnorr signature tricks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Schnorr Signatures, Taproot&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/cat-csfs-vault&#34;&gt;CAT-CSFS Vault&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;liquid-network-mnemonic-recovery-tool&#34;&gt;Liquid Network Mnemonic Recovery Tool&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: BIP39 mnemonic recovery tool for the Liquid Network. Brute-forces the last 2 missing words using a local Elements node at ~2,600 addr/s with no API rate limits.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Elements (Liquid Network)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/liquid-recovery&#34;&gt;Liquid Recovery&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bitcoin-multisig-key-recovery-tool&#34;&gt;Bitcoin Multisig Key Recovery Tool&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A Rust-based CLI tool for key recovery in m-of-n Bitcoin multisig schemes. Addresses the vulnerability where loss of a single public key prevents recovery even with all private keys. Enables recovery with only &amp;rsquo;m&amp;rsquo; keys using OP_RETURN.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Rust, Bitcoin Core&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/bitcoin-multisig-wallet&#34;&gt;Multisig Recovery&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;command--control-over-dns-tunneling&#34;&gt;Command &amp;amp; Control over DNS Tunneling&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project demonstrates a DNS Tunneling-based HTTP Proxy, allowing a client behind a firewall to send HTTP requests over DNS queries. This is useful in environments where internet access is blocked but DNS queries are allowed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python (dnscat2, iodine), Rust, Wireshark&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/DNS-Tunnel-HTTP-Proxy&#34;&gt;DNS Tunneling Attack&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bitcoin-docker-dev-environments&#34;&gt;Bitcoin Docker Dev Environments&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Docker Compose setups for spinning up Blockstream&amp;rsquo;s Elements (Liquid Network) and Bitcoin Inquisition (Bitcoin Core fork with OP_CAT, OP_CTV, etc. activated on signet) for research and development.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Shell, Docker Compose, Dockerfile, Bitcoin Core&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/elements-regtest-docker&#34;&gt;Elements Docker&lt;/a&gt; | &lt;a href=&#34;https://github.com/PraneethGunas/bitcoin-inquisition-docker&#34;&gt;Inquisition Docker&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;tls-13-0-rtt-replay-attack-vulnerability-check&#34;&gt;TLS 1.3 0-RTT replay-attack vulnerability check&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A network vulnerability experiment that exploits reply attack on TLS 1.3&amp;rsquo;s 0-RTT early data&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Rust, Openssl, Wireshark, Scapy, Python&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2024&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/tls-1.3-0-rtt-reply-experiment&#34;&gt;TLS 0-RTT reply&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;pictionary&#34;&gt;Pictionary&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A live socket-based interactive pictionary game for Android and iOS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: React-Native, Typescript, Socket.io, Realm (MongoDB)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/Pictionary-App&#34;&gt;Pictionary App&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;bitify-decentralised-spotify&#34;&gt;Bitify (Decentralised Spotify)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A decentralised music streaming platform built on Ethereum where artists publish directly and listeners pay per stream via smart contracts.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Solidity, Javascript, React, Firebase, Truffle suite (Ganache, web3)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://github.com/PraneethGunas/Bitify/tree/master&#34;&gt;Bitify&lt;/a&gt;&#xA; &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://praneethgunas.github.io/whoami/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</author>
-      <guid>https://praneethgunas.github.io/whoami/resume/</guid>
-      <description>&lt;h3 id=&#34;readcv&#34;&gt;&lt;a href=&#34;https://praneeth-resume.tiiny.site&#34;&gt;read.cv&lt;/a&gt;&lt;/h3&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Praneeth G</title><link>https://praneethgunas.github.io/whoami/</link><description>Recent content on Praneeth G</description><generator>Hugo</generator><language>en-us</language><managingEditor>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</managingEditor><webMaster>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</webMaster><atom:link href="https://praneethgunas.github.io/whoami/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://praneethgunas.github.io/whoami/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</author><guid>https://praneethgunas.github.io/whoami/about/</guid><description>&lt;h1 id="about-me"&gt;About Me&lt;/h1&gt;
+&lt;p&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;/p&gt;
+&lt;p&gt;Hi, I&amp;rsquo;m Praneeth! I&amp;rsquo;m currently pursuing my MS in Computer Science at &lt;a href="https://vt.edu/"&gt;Virginia Tech&lt;/a&gt;. I&amp;rsquo;m working on my research thesis under &lt;a href="https://people.cs.georgetown.edu/matsuo/"&gt;Dr Shin&amp;rsquo;ichiro Matsuo&lt;/a&gt; and &lt;a href="https://www.cnsr.ictas.vt.edu/WJLou.html"&gt;Dr Wenjing Lou&lt;/a&gt;, comparing Bitcoin covenant vault designs (CTV, CCV, OP_VAULT) through empirical measurement and formal verification at the &lt;a href="https://cyberinitiative.org/"&gt;Commonwealth Cyber Initiative&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve worked at Bithyve building a secure Bitcoin &lt;a href="https://apps.apple.com/pl/app/bitcoin-keeper/id1545535925"&gt;mobile wallet&lt;/a&gt; that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely.&lt;/p&gt;</description></item><item><title/><link>https://praneethgunas.github.io/whoami/curriculum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</author><guid>https://praneethgunas.github.io/whoami/curriculum/</guid><description>&lt;h1 id="whats-in-my-masters"&gt;What&amp;rsquo;s in my Masters?&lt;/h1&gt;
+&lt;p&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;/p&gt;
+&lt;h2 id="network-security"&gt;Network Security&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We focus on key protocols like TLS, DNSSEC, Routing, and Email Security, while exploring vulnerabilities and countermeasures. Recent study areas include certificate pinning in mobile apps, QUIC adoption, and its scalability, Destination-Side Source Address Validation (DSAV), Adoption of Route Origin Validation across autonomous systems etc. I’m currently trying to alayse reply attacks in TLS 1.3 during the data trasfer in 0-RTT handshake at the time of session resumption
+ &lt;/p&gt;</description></item><item><title/><link>https://praneethgunas.github.io/whoami/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</author><guid>https://praneethgunas.github.io/whoami/projects/</guid><description>&lt;h1 id="community-and-publications"&gt;Community and Publications&lt;/h1&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id="coinkite-tap-protocol-library-open-sourced---2022"&gt;Coinkite Tap Protocol library (Open-sourced - 2022)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Open sourced &lt;a href="https://github.com/bithyve/cktap-protocol-react-native"&gt;cktap&lt;/a&gt;, A React Native library/sdk to enable easy communication with &lt;a href="https://tapsigner.com/"&gt;TAPSIGNER™&lt;/a&gt; and &lt;a href="https://satscard.com/"&gt;SATSCARD™&lt;/a&gt; with React-Native, Python and Javascript
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="speaker-bitcoin4india"&gt;Speaker @Bitcoin4India&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spoke about &lt;em&gt;Securing Bitcoin with multisig&lt;/em&gt; with &lt;a href="https://bitcoin4india.org/"&gt;Bitcoin4India&lt;/a&gt; addressing a self-motivated crowd of about ~500.
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="hosting-meetups-on-bitcoin"&gt;Hosting Meetups on Bitcoin&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hosting monthly meetups with &lt;a href="https://www.meetup.com/bitcoinforindia/"&gt;Bitcoin4India&lt;/a&gt; with coffee and Bitcoin security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h1 id="projects"&gt;Projects&lt;/h1&gt;
+&lt;h3 id="aegis-wallet--agentic-bitcoin-wallet-mit-bitcoin-hackathon-2026"&gt;Aegis Wallet — Agentic Bitcoin Wallet (MIT Bitcoin Hackathon 2026)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Seedless, self-custodial Bitcoin wallet where Claude (or Gemini) is the AI financial agent. Passkey authentication replaces seed phrases entirely — the WebAuthn PRF extension derives a BIP-32 master key from the device&amp;rsquo;s secure enclave, and recovery is just syncing the passkey to a new device. Two-layer custody: L1 is a standard Taproot (BIP-86) wallet with keys derived client-side, and all on-chain transactions are signed in the browser — the server has zero access to funding keys. L2 is a custodial Lightning spending layer where the agent operates under a scoped macaroon tied to a litd account, with budget ceilings enforced cryptographically by LND&amp;rsquo;s RPC middleware. When the agent exceeds its budget, the backend pushes an SSE notification to the dashboard and the user pays directly with one tap — sub-second latency, no polling. A Go sidecar handles LND gRPC via &lt;code&gt;lndclient&lt;/code&gt; for proper protobuf handling. The backend has no database and no auth server — all state lives in litd accounts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Next.js 15, React, Tailwind CSS, motion/react, Node.js 22 + Express + SSE, Go gateway (&lt;code&gt;lndclient&lt;/code&gt;), bitcoinjs-lib, bip39, tiny-secp256k1, @simplewebauthn/browser, LND v0.20-beta + litd v0.16-alpha, Docker Compose, Bitcoin mainnet&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/aegis-wallet"&gt;Aegis Wallet&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="ln-mcp--lightning-wallet-mcp-server-for-ai-agents"&gt;ln-mcp — Lightning Wallet MCP Server for AI Agents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Open-source MCP (Model Context Protocol) server published to npm that gives any AI agent a Bitcoin Lightning wallet. One &lt;code&gt;npx -y ln-mcp&lt;/code&gt; and Claude Desktop, Claude Code, Gemini CLI, or ChatGPT can pay Lightning invoices, consume L402-gated APIs, and discover paid services — all within a macaroon-enforced budget. 10 tools across payments, spending, and discovery (proxied from the 402 Index&amp;rsquo;s ~19,000 paid endpoints across L402, x402, and MPP protocols). The &lt;code&gt;l402_fetch&lt;/code&gt; tool handles the full 402 → decode → pay → cache → retry loop in one call, with per-domain token caching. Deliberately minimal: 2 runtime dependencies, 4 source files, LND REST over gRPC. Deliberately omits &lt;code&gt;get_balance&lt;/code&gt; and &lt;code&gt;decode_invoice&lt;/code&gt; — agents used them to pre-check and refuse payments, defeating the approval flow. Distinguishes budget-exceeded failures from routing failures with explicit &lt;code&gt;TELL_USER&lt;/code&gt; / &lt;code&gt;SHOW_TO_USER&lt;/code&gt; response fields, after Gemini once invented a fake &amp;ldquo;Human-in-the-loop security policy&amp;rdquo; to explain a transient relay failure. Published via GitHub Actions OIDC trusted publishing with signed provenance via sigstore — zero long-lived npm credentials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Node.js 22, @modelcontextprotocol/sdk, zod, LND REST API, 402 Index API, SendPaymentV2 streaming, stdio + HTTP transports&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/ln-mcp"&gt;ln-mcp&lt;/a&gt; | &lt;a href="https://www.npmjs.com/package/ln-mcp"&gt;npm&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="x402--l402-powered-feed-reader"&gt;x402 — L402-Powered Feed Reader&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Pay-per-article feed reader where real RSS articles are gated behind HTTP 402 Payment Required. Readers connect their own Lightning node from the browser via LNC (Lightning Node Connect), pay a few sats, and read instantly. Features custom credential store fixing an upstream lnc-web reconnect bug, L402 token persistence, two-node payment architecture (provider + user), and a Go backend that fetches live feeds from Bitcoin Optech and Lightning Engineering with zero external dependencies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Next.js, MobX, Emotion, Go, LNC, Aperture (L402), lnd, litd (watch-only + remote signer), Neutrino, Docker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/x402"&gt;x402&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="policypulse--ai-powered-policy-impact-analyzer-hoohacks-2026--uva"&gt;PolicyPulse — AI-Powered Policy Impact Analyzer (HooHacks 2026 @ UVA)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Multi-agent AI system that analyzes how government policies personally impact you, backed by real government data. 7-agent pipeline across 4 stages — classification, research, parallel sector analysis (Labor, Housing, Consumer, Business), and synthesis. Features autonomous Lightning Network micropayments via L402 protocol: when free public data isn&amp;rsquo;t enough, agents pay fractional satoshis to access premium databases, visualized in real-time. Streaming UI with live agent activity feeds, payment animations, and animated Sankey diagrams.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Next.js 16, React 19, Tailwind CSS 4, D3.js, FastAPI, Python, LangGraph, Google ADK, LND/Aperture (x402), Docker Compose&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/HooHacks"&gt;PolicyPulse&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="empirical-comparison-of-bitcoin-covenant-vault-designs"&gt;Empirical Comparison of Bitcoin Covenant Vault Designs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Three-way empirical comparison framework for CTV (BIP-119), CCV (BIP-443), and OP_VAULT (BIP-345) vault implementations. 12 experiments measuring transaction costs, security properties, and attack surfaces on regtest with Alloy formal verification.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Bitcoin Core (regtest), Alloy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://research.praneethg.xyz"&gt;Research Site&lt;/a&gt; | &lt;a href="https://github.com/PraneethGunas/vault-comparison"&gt;Framework&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="cat-csfs-bitcoin-vault"&gt;CAT-CSFS Bitcoin Vault&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A Bitcoin vault built on OP_CAT (BIP 347) and OP_CHECKSIGFROMSTACK (BIP 348) to enforce covenant spending rules on regtest. Implements on-chain transaction introspection using Schnorr signature tricks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Schnorr Signatures, Taproot&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/cat-csfs-vault"&gt;CAT-CSFS Vault&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="liquid-network-mnemonic-recovery-tool"&gt;Liquid Network Mnemonic Recovery Tool&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: BIP39 mnemonic recovery tool for the Liquid Network. Brute-forces the last 2 missing words using a local Elements node at ~2,600 addr/s with no API rate limits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python, Elements (Liquid Network)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/liquid-recovery"&gt;Liquid Recovery&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="bitcoin-multisig-key-recovery-tool"&gt;Bitcoin Multisig Key Recovery Tool&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A Rust-based CLI tool for key recovery in m-of-n Bitcoin multisig schemes. Addresses the vulnerability where loss of a single public key prevents recovery even with all private keys. Enables recovery with only &amp;rsquo;m&amp;rsquo; keys using OP_RETURN.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Rust, Bitcoin Core&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/bitcoin-multisig-wallet"&gt;Multisig Recovery&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="command--control-over-dns-tunneling"&gt;Command &amp;amp; Control over DNS Tunneling&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: This project demonstrates a DNS Tunneling-based HTTP Proxy, allowing a client behind a firewall to send HTTP requests over DNS queries. This is useful in environments where internet access is blocked but DNS queries are allowed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Python (dnscat2, iodine), Rust, Wireshark&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/DNS-Tunnel-HTTP-Proxy"&gt;DNS Tunneling Attack&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="bitcoin-docker-dev-environments"&gt;Bitcoin Docker Dev Environments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Docker Compose setups for spinning up Blockstream&amp;rsquo;s Elements (Liquid Network) and Bitcoin Inquisition (Bitcoin Core fork with OP_CAT, OP_CTV, etc. activated on signet) for research and development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Shell, Docker Compose, Dockerfile, Bitcoin Core&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2025&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/elements-regtest-docker"&gt;Elements Docker&lt;/a&gt; | &lt;a href="https://github.com/PraneethGunas/bitcoin-inquisition-docker"&gt;Inquisition Docker&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="tls-13-0-rtt-replay-attack-vulnerability-check"&gt;TLS 1.3 0-RTT replay-attack vulnerability check&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A network vulnerability experiment that exploits reply attack on TLS 1.3&amp;rsquo;s 0-RTT early data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Rust, Openssl, Wireshark, Scapy, Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2024&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/tls-1.3-0-rtt-reply-experiment"&gt;TLS 0-RTT reply&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="pictionary"&gt;Pictionary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A live socket-based interactive pictionary game for Android and iOS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: React-Native, Typescript, Socket.io, Realm (MongoDB)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/Pictionary-App"&gt;Pictionary App&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="bitify-decentralised-spotify"&gt;Bitify (Decentralised Spotify)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: A decentralised music streaming platform built on Ethereum where artists publish directly and listeners pay per stream via smart contracts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Solidity, Javascript, React, Firebase, Truffle suite (Ganache, web3)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Year&lt;/strong&gt;: 2020&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href="https://github.com/PraneethGunas/Bitify/tree/master"&gt;Bitify&lt;/a&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title/><link>https://praneethgunas.github.io/whoami/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</author><guid>https://praneethgunas.github.io/whoami/resume/</guid><description>&lt;h3 id="readcv"&gt;&lt;a href="https://praneeth-resume.tiiny.site"&gt;read.cv&lt;/a&gt;&lt;/h3&gt;</description></item></channel></rss>

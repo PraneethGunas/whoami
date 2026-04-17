@@ -16,6 +16,24 @@
 
 # Projects
 
+### Aegis Wallet — Agentic Bitcoin Wallet (MIT Bitcoin Hackathon 2026)
+- **Description**: Seedless, self-custodial Bitcoin wallet where Claude (or Gemini) is the AI financial agent. Passkey authentication replaces seed phrases entirely — the WebAuthn PRF extension derives a BIP-32 master key from the device's secure enclave, and recovery is just syncing the passkey to a new device. Two-layer custody: L1 is a standard Taproot (BIP-86) wallet with keys derived client-side, and all on-chain transactions are signed in the browser — the server has zero access to funding keys. L2 is a custodial Lightning spending layer where the agent operates under a scoped macaroon tied to a litd account, with budget ceilings enforced cryptographically by LND's RPC middleware. When the agent exceeds its budget, the backend pushes an SSE notification to the dashboard and the user pays directly with one tap — sub-second latency, no polling. A Go sidecar handles LND gRPC via `lndclient` for proper protobuf handling. The backend has no database and no auth server — all state lives in litd accounts.
+- **Tech Stack**: Next.js 15, React, Tailwind CSS, motion/react, Node.js 22 + Express + SSE, Go gateway (`lndclient`), bitcoinjs-lib, bip39, tiny-secp256k1, @simplewebauthn/browser, LND v0.20-beta + litd v0.16-alpha, Docker Compose, Bitcoin mainnet
+- **Year**: 2026
+- **Link**: [Aegis Wallet](https://github.com/PraneethGunas/aegis-wallet)
+&nbsp;
+
+---
+
+### ln-mcp — Lightning Wallet MCP Server for AI Agents
+- **Description**: Open-source MCP (Model Context Protocol) server published to npm that gives any AI agent a Bitcoin Lightning wallet. One `npx -y ln-mcp` and Claude Desktop, Claude Code, Gemini CLI, or ChatGPT can pay Lightning invoices, consume L402-gated APIs, and discover paid services — all within a macaroon-enforced budget. 10 tools across payments, spending, and discovery (proxied from the 402 Index's ~19,000 paid endpoints across L402, x402, and MPP protocols). The `l402_fetch` tool handles the full 402 → decode → pay → cache → retry loop in one call, with per-domain token caching. Deliberately minimal: 2 runtime dependencies, 4 source files, LND REST over gRPC. Deliberately omits `get_balance` and `decode_invoice` — agents used them to pre-check and refuse payments, defeating the approval flow. Distinguishes budget-exceeded failures from routing failures with explicit `TELL_USER` / `SHOW_TO_USER` response fields, after Gemini once invented a fake "Human-in-the-loop security policy" to explain a transient relay failure. Published via GitHub Actions OIDC trusted publishing with signed provenance via sigstore — zero long-lived npm credentials.
+- **Tech Stack**: Node.js 22, @modelcontextprotocol/sdk, zod, LND REST API, 402 Index API, SendPaymentV2 streaming, stdio + HTTP transports
+- **Year**: 2026
+- **Link**: [ln-mcp](https://github.com/PraneethGunas/ln-mcp) | [npm](https://www.npmjs.com/package/ln-mcp)
+&nbsp;
+
+---
+
 ### x402 — L402-Powered Feed Reader
 - **Description**: Pay-per-article feed reader where real RSS articles are gated behind HTTP 402 Payment Required. Readers connect their own Lightning node from the browser via LNC (Lightning Node Connect), pay a few sats, and read instantly. Features custom credential store fixing an upstream lnc-web reconnect bug, L402 token persistence, two-node payment architecture (provider + user), and a Go backend that fetches live feeds from Bitcoin Optech and Lightning Engineering with zero external dependencies.
 - **Tech Stack**: Next.js, MobX, Emotion, Go, LNC, Aperture (L402), lnd, litd (watch-only + remote signer), Neutrino, Docker

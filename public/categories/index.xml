@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Praneeth G</title>
-    <link>https://praneethgunas.github.io/whoami/categories/</link>
-    <description>Recent content in Categories on Praneeth G</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</managingEditor>
-    <webMaster>inboxpraneeth@gmail.com (Hi 👋, I&#39;m Praneeth)</webMaster>
-    <atom:link href="https://praneethgunas.github.io/whoami/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Praneeth G</title><link>https://praneethgunas.github.io/whoami/categories/</link><description>Recent content in Categories on Praneeth G</description><generator>Hugo</generator><language>en-us</language><managingEditor>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</managingEditor><webMaster>inboxpraneeth@gmail.com (Hi 👋, I'm Praneeth)</webMaster><atom:link href="https://praneethgunas.github.io/whoami/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

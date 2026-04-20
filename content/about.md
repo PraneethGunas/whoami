@@ -4,7 +4,7 @@
 &nbsp;  
 &nbsp;  
 
-Hi, I'm Praneeth! I'm currently pursuing my MS in Computer Science at [Virginia Tech](https://vt.edu/). I'm working on my research thesis under [Dr Shin'ichiro Matsuo](https://people.cs.georgetown.edu/matsuo/) and [Dr Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html), comparing Bitcoin covenant vault designs (CTV, CCV, OP_VAULT) through empirical measurement and formal verification at the [Commonwealth Cyber Initiative](https://cyberinitiative.org/).
+Hi, I'm Praneeth! I'm currently finishing my MS in Computer Science at [Virginia Tech](https://vt.edu/). My research under [Dr Shin'ichiro Matsuo](https://people.cs.georgetown.edu/matsuo/) and [Dr Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html) at the [Commonwealth Cyber Initiative](https://cyberinitiative.org/) is the first empirical comparison of four active Bitcoin covenant proposals (CTV, CCV, OP_VAULT, CAT+CSFS) — I discovered a critical covenant-bypass vulnerability in BIP-443 and built a four-axis security framework for vault design. More at [research.praneethg.xyz](https://research.praneethg.xyz).
 
 I've worked at Bithyve building a secure Bitcoin [mobile wallet](https://apps.apple.com/pl/app/bitcoin-keeper/id1545535925) that helps you self-custody your keys. I led the hardware integrations with the mobile app and helped the team build scalable applications securely. 
 

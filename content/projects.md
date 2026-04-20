@@ -52,20 +52,29 @@
 
 ---
 
-### Empirical Comparison of Bitcoin Covenant Vault Designs
-- **Description**: Three-way empirical comparison framework for CTV (BIP-119), CCV (BIP-443), and OP_VAULT (BIP-345) vault implementations. 12 experiments measuring transaction costs, security properties, and attack surfaces on regtest with Alloy formal verification.
-- **Tech Stack**: Python, Bitcoin Core (regtest), Alloy
+### The Cost of Custody — Bitcoin Covenant Vault Research
+- **Description**: First peer-reviewable empirical comparison of four active Bitcoin covenant proposals — **CTV (BIP-119)**, **CCV (BIP-443)**, **OP_VAULT (BIP-345)**, and **CAT+CSFS (BIP-347 + BIP-348)**. Ran 15 on-chain experiments on regtest covering the full vault lifecycle and a structured attack catalog across 11 threat models (fee pinning via CPFP anchor chains, watchtower fee exhaustion, keyless recovery griefing, trigger-key theft, cold-key theft, hot-key compromise, sighash-preimage tampering). Core contribution is a four-axis security framework (fee model, amount flexibility, recovery gating, recovery binding) that deterministically maps each design choice to its attack surface — any new BIP can be placed in the lattice and its vulnerability profile read off without running new measurements. **Key findings**: a critical covenant-bypass in CCV where undefined mode bytes trigger OP_SUCCESS and silently disable all vault protections; a batched-defender ordering flip where CCV and OP_VAULT swap safety rankings (66 vs 59 sat/vB unbatched, 119 vs 159 sat/vB batched) depending on the watchtower's recovery strategy; a griefing–safety incompatibility proving no covenant vault can simultaneously achieve permissionless recovery and griefing resistance.
+- **Tech Stack**: Python (≈15K LOC framework), Bitcoin Core (Bitcoin Inquisition, Merkleize CCV, jamesob OP_VAULT), Docker Compose, pytest, LaTeX
 - **Year**: 2026
 - **Link**: [Research Site](https://research.praneethg.xyz) | [Framework](https://github.com/PraneethGunas/vault-comparison)
 &nbsp;
 
 ---
 
-### CAT-CSFS Bitcoin Vault
-- **Description**: A Bitcoin vault built on OP_CAT (BIP 347) and OP_CHECKSIGFROMSTACK (BIP 348) to enforce covenant spending rules on regtest. Implements on-chain transaction introspection using Schnorr signature tricks.
-- **Tech Stack**: Python, Schnorr Signatures, Taproot
+### simple-cat-csfs-vault — CAT+CSFS Bitcoin Vault
+- **Description**: Standalone open-source Bitcoin vault using **OP_CAT (BIP-347)** for on-stack transaction introspection and **OP_CHECKSIGFROMSTACK (BIP-348)** for dual-key output binding. Runs on Bitcoin Inquisition signet. Dual-verification hot leaf (hot key + output binding via CSFS) resists hot-key compromise better than any other covenant in the comparison — an attacker can trigger but cannot redirect funds. Included as one of the four covenants in the thesis comparison framework.
+- **Tech Stack**: Python, Schnorr Signatures, Taproot, Bitcoin Inquisition, OP_CAT, OP_CHECKSIGFROMSTACK, SIGHASH variants
 - **Year**: 2026
-- **Link**: [CAT-CSFS Vault](https://github.com/PraneethGunas/cat-csfs-vault)
+- **Link**: [CAT+CSFS Vault](https://github.com/PraneethGunas/cat-csfs-vault)
+&nbsp;
+
+---
+
+### simple-simplicity-vault — Simplicity Vault on Elements
+- **Description**: Full Bitcoin vault lifecycle (create, trigger, withdraw, recover) implemented in **Simplicity** — Blockstream's functional combinator script language that provides native transaction introspection without a soft-fork dependency. Runs on **Elements** (the Liquid Network's substrate) via Blockstream's **Simplex SDK**. Serves as a cross-substrate reference point in my thesis comparison — Simplicity's combinator calculus enables the full introspection power that the four Bitcoin covenant proposals each approximate via different constrained mechanisms.
+- **Tech Stack**: Rust, Simplicity, Simplex SDK, Elements (elementsd, electrs), Bitcoin-style Taproot
+- **Year**: 2026
+- **Link**: [Simplicity Vault](https://github.com/PraneethGunas/simple-simplicity-vault)
 &nbsp;
 
 ---

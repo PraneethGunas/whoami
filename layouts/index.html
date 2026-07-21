@@ -8,6 +8,14 @@
 
     {{ partial "head.html" . }}
 
+    <style>
+        .indexPgp {
+            text-align: center;
+            margin-top: 0.75em;
+            word-break: break-word;
+        }
+    </style>
+
 </head>
 
 <body>
@@ -21,6 +29,9 @@
                     <div>
                         <h1 class="indexHeader">{{ .Site.Params.author.name }}</h1>
                     </div>
+                    {{ with .Site.Params.pgpHtml }}
+                        <div class="indexPgp">{{ . | safeHTML }}</div>
+                    {{ end }}
                     {{ if isset .Site.Params "social" }}
                         {{ partial "social.html" . }}
                     {{ end }}

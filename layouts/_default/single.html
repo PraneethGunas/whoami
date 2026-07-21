@@ -4,11 +4,12 @@ Praneeth
 
 {{ define "main" }}
 <div class="postWrapper">
-    <h1>{{ .Title }}</h1>
+    {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
     {{ if .Description}}
     	<p>{{.Description}}</p>
     {{ end }}
-    {{ if .Params.showMetadata | default true }}
+    {{ $hasMeta := or (.GetTerms "tags") (.GetTerms "authors") (.GetTerms "categories") (.Site.Params.published | default true) (.Site.Params.readingTime | default true) }}
+    {{ if and (.Params.showMetadata | default true) $hasMeta }}
     <section class="postMetadata">
         <dl>
             {{ with .GetTerms "tags" }}

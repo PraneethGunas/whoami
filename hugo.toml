@@ -9,7 +9,8 @@ theme = 'nightfall'
     sitedescription = 'Security researcher and software engineer pursuing MS in Computer Science at Virginia Tech'
     published = false
     readingTime = false
-    footerHtml = '📍 Arlington, VA, USA Research Assistant at <a href="https://cyberinitiative.org/" class="footerLink">Commonwealth Cyber Initiative</a> in <a href="https://vt.edu/" class="footerLink">Virginia Tech</a>'
+    footerHtml = '📍 Palo Alto, CA Research Engineer @<a href="https://lclhost.org" class="footerLink">Localhost Research</a>'
+    pgpHtml = 'PGP: <a href="/pgp.txt" target="_blank" class="footerLink">A1EE 00E9 9EB0 5CBF 2456 D0CA 0EA8 4641 64A5 2C10</a>'
 
     [params.author]
         name = "Hi 👋, I'm Praneeth"
@@ -53,7 +54,7 @@ theme = 'nightfall'
         name = "resume"
         url = "https://praneeth-resume.tiiny.site"
         target = "_blank"
-    
+
 
     [menu]
         [[menu.header]]
